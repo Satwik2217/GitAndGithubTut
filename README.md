@@ -1,0 +1,2 @@
+# GitAndGithubTut
+ordinary repo
